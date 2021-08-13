@@ -22,6 +22,6 @@ The data analyzed was obtained from Zillow using the Quandl platform. The data c
 
 # Descriptive Statistics:
 
-![image](Resources/FVaca_National_plot_scaled.png)
+<img src=Resources/FVaca_National_plot_scaled.png">
 
 
