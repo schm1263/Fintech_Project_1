@@ -137,7 +137,7 @@ When the Money Supply (M2) Z-Score is compared to the asset classes over a rolli
 <img src="Resources/Stock_Index_ZScore_3yr_Rolling_Comparison_Graph.png">
 <br>
 <h3>Correlation heatmap for Rolling 3 Year Z-Scores of M2 and Stock Prices</h3>
-<img src="Resources/Overall_Correlation_Rolling_ZScore_Heat_Map_Stocks.PNG">
+<img src="Resources/Overall_Correlation_Rolling_ZScore_Heat_Map_Stocks.png">
 
 <br>
 <h1>Closing Statement:</h1>
