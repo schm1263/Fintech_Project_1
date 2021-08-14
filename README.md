@@ -77,13 +77,13 @@ The economic indicators of GDP and Personal Income are very correlated over the 
 <img src="Resources/el-Correlation_of_M2_GDP_Income_40yr.png">
 
 <h2>40 year Z-Score: M2 Compared to Bitcoin</h2>
-<img src="pd_z_score_m2sl_btc_plot.png">
+<img src="Resources/pd_z_score_m2sl_btc_plot.png">
 <br>
 <h3>Correlation heatmap for 40 Year Z-Scores of M2 compared to Bitcoin</h3>
 <img src="Resources/pd_z_score_m2sl_btc_corr_hvplot.png">
 
 <h2>40 year Z-Score: M2 Compared to Housing Prices</h2>
-<img src="FVaca_2_National_plot_z_score.png">
+<img src="Resources/FVaca_2_National_plot_z_score.png">
 <br>
 <h3>Correlation heatmap for 40 Year Z-Scores of M2 compared to Housing Prices</h3>
 <img src="Resources/FVaca_4_National_correlation_plot.png">
