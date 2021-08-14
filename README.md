@@ -134,3 +134,13 @@ When the Money Supply (M2) Z-Score is compared to the asset classes over a rolli
 <img src="Resources/FVaca_17_National_correlation_rolling_z_plot.PNG">
 
 <h2>Rollling Z-Score: M2 Compared to the Stock Market</h2>
+<img src="Resources/Stock_Index_ZScore_3yr_Rolling_Comparison_Graph.png">
+<br>
+<h3>Correlation heatmap for Rolling 3 Year Z-Scores of M2 and Stock Prices</h3>
+<img src="Resources/Overall_Correlation_Rolling_ZScore_Heat_Map_Stocks.PNG">
+
+<br>
+<h1>Closing Statement:</h1>
+<p>
+In summation, it is important to note that correlation does not equate to causation.  When the tide comes in, all boats and bouys rise with the tide.  That does not mean that every boat or raft that rose with the tide went up because the bouy rose as well.
+</p>
