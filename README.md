@@ -68,7 +68,7 @@ When comparing the money supply over the past 40 years to the major asset classe
 <img src="Resources/Overall Correlation Heat Map.png">
 
 <p>
-The economic indicators of GDP and Personal Income are very correlated over the last 40 years.  Even the new asset classes like crypto currences, like Bitcoin, seem to be extremely correlated.
+The economic indicators of GDP and Personal Income show a strong correlation over the last 40 years.  Even the new asset class of crypto currences, like Bitcoin, seem to be extremely correlated.
 </p>
 <h2>40 year Z-Score: M2 Compared to Personal Income and GDP</h2>
 <img src="Resources/el-40y_Z-Score_plot.png">
@@ -86,7 +86,7 @@ The economic indicators of GDP and Personal Income are very correlated over the 
 <img src="Resources/FVaca_2_National_plot_z_score.png">
 <br>
 <h3>Correlation heatmap for 40 Year Z-Scores of M2 compared to Housing Prices</h3>
-<img src="Resources/FVaca_4_National_correlation_plot (1).png">
+<img src="Resources/FVaca_4_National_correlation_plot (1).PNG">
 
 <h2>40 year Z-Score: M2 Compared to Bond Yields</h2>
 <img src="Resources/ZScore_Plot_CM.png">
@@ -99,7 +99,7 @@ The economic indicators of GDP and Personal Income are very correlated over the 
 <p>This raises a question whether there could be another factor raising all values of our measurements.  It's important to understand that the Pearson Correlation measures the strength of the ability of two measures to move together at the same rate. To reduce the noise we chose to do a 3 year rolling Z-Score measurement and see what the effects could be.
 </p>
 <p>
-When the Money Supply (M2) Z-Score is compared to the asset classes over a rolling three year period there is a lot less correlation between Money Supply and the other specified asset.  However, with some assets, like real estate there appears to be a possible delayed correlation between an increase in Money Supply and Housing Prices.
+When the Money Supply (M2) Z-Score is compared to the asset classes over a rolling three year period there is a lot less correlation between Money Supply and the other specified asset.  However, with some assets like real estate, there appears to be a possible delayed correlation between an increase in Money Supply and Housing Prices.
 </p>
 
 <h2>Rollling Z-Score: M2 Compared to Personal Income and GDP</h2>
@@ -131,6 +131,6 @@ When the Money Supply (M2) Z-Score is compared to the asset classes over a rolli
 <img src="Resources/FVaca_3_National_plot_rolling_z.png">
 <br>
 <h3>Correlation heatmap for Rolling 3 Year Z-Scores of M2 and Housing Prices</h3>
-<img src="Resources/FVaca_17_National_correlation_rolling_z_plot.png">
+<img src="Resources/FVaca_17_National_correlation_rolling_z_plot.PNG">
 
 <h2>Rollling Z-Score: M2 Compared to the Stock Market</h2>
