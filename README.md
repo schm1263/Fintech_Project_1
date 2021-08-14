@@ -29,11 +29,11 @@ The rolling 3-year z-score was also considered and it shows that there is lag be
 
 At the state level, even though on average all the housing market of every state follows the same trend, there are major disparities among them, as it can be evidenced on the interactive map of Money Supply vs House Prices by state.
 
-![image](Resources/FVaca_16_state_interactive_plot.png)
+![image](Resources/FVaca_16_state_interactive_plot.PNG)
 
 The money supply and house prices appear to be highly correlated (Over 0.99), but this does not imply causality. When analyzing by home type (single family and condos), single family homes show a higher correlation. Additionally, Mid tier homes (valued within the 35th and 65th percentile) and Low tier homes (valued within the 5th and 35th percentile) have a slightly higher correlation than those in the top tier.
 
-![image](Resources/FVaca_4_National_correlation_plot.png)
+![image](Resources/FVaca_4_National_correlation_plot.PNG)
 
 Single family homes have a higher correlation with the monetary supply than condos or coops. The effect of changes in monetary supply policy affect single home owners directly whereas this effect is more spread when dealing with condos and coops. 
 
@@ -50,7 +50,7 @@ House prices decreased by an average of 14% during the financial crisis, whereas
 
 ![image](Resources/FVaca_18_rolling_z_scores_financial_crisis_plot.png)
 
-![image](Resources/FVaca_8_Fin_crisis_correlation_plot.png)
+![image](Resources/FVaca_8_Fin_crisis_correlation_plot.PNG)
 
 
 
@@ -61,7 +61,7 @@ House prices decreased by an average of 14% during the financial crisis, whereas
 
 ![image](Resources/FVaca_10_911_plot_z_score.png)
 
-![image](Resources/FVaca_11_911_correlation_plot.png)
+![image](Resources/FVaca_11_911_correlation_plot.PNG)
 
 
 
@@ -69,4 +69,4 @@ House prices decreased by an average of 14% during the financial crisis, whereas
 
 ![image](Resources/FVaca_13_pandemic_plot_z_scores.png)
 
-![image](Resources/FVaca_14_pandemic_correlation_plot.png)
+![image](Resources/FVaca_14_pandemic_correlation_plot.PNG)
