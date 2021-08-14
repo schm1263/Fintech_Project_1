@@ -1,0 +1,10 @@
+overall heatmap
+overall line plot
+individual timeframe heat map
+individual timeframe correlation line plot
+individual timeframe visualization should include a plot and heatmap for:
+-the 9/11 
+-2008 financial crisis starting at june 11 
+-pandemic starting at jan 1 2020 
+
+which would result in a total of 8 data visualizations 
