@@ -86,7 +86,7 @@ The economic indicators of GDP and Personal Income are very correlated over the 
 <img src="Resources/FVaca_2_National_plot_z_score.png">
 <br>
 <h3>Correlation heatmap for 40 Year Z-Scores of M2 compared to Housing Prices</h3>
-<img src="Resources/FVaca_4_National_correlation_plot.png">
+<img src="Resources/FVaca_4_National_correlation_plot (1).png">
 
 <h2>40 year Z-Score: M2 Compared to Bond Yields</h2>
 <img src="Resources/ZScore_Plot_CM.png">
