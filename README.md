@@ -3,18 +3,8 @@ First Group Project
 Research 
 
 Questions to Answer:
-Does monetary supply actually stimulate the economy or does it just pump investments such as stocks, crypto, and housing?
-Compare money printed over the past 40 years to
-GDP
-Personal income
-Stock indices
-Bitcoin price
-Housing prices
-Bonds
-Zoom in on significant economic events
-Financial crisis
-Pandemic
-9/11
+
+Does monetary supply actually stimulate the economy? What is the effect of Monetary Supply on House Prices over the last 25 years?
 
 
 # Monetary Supply and Housing Prices
@@ -33,18 +23,50 @@ Below you will find the same data normalized by using z-scores. Money supply gre
 
 ![image](Resources/FVaca_2_National_plot_z_score.png)
 
-The rolling 3-year z-score was also considered and it depicts that there is lag between real estate prices and money supply. This lag is specially evident after events that are shocks to the economy (such as the Financial Crisis) where House prices went down and still followed the trends in the Money supply. If there was a peak in the money supply it was also followed by a peak in the housing market.
+The rolling 3-year z-score was also considered and it shows that there is lag between real estate prices and money supply. This lag is specially evident after events that are shocks to the economy (such as the Financial Crisis) where House prices went down and still followed the trends in the Money supply. If there was a peak in the money supply it was also followed by a peak in the housing market.
 
 ![image](Resources/FVaca_3_National_plot_rolling_z.png)
+
+At the state level, even though on average all the housing market of every state follows the same trend, there are major disparities among them, as it can be evidenced on the interactive map of Money Supply vs House Prices by state.
+
+![image](Resources/FVaca_16_state_interactive_plot.png)
 
 The money supply and house prices appear to be highly correlated (Over 0.99), but this does not imply causality. When analyzing by home type (single family and condos), single family homes show a higher correlation. Additionally, Mid tier homes (valued within the 35th and 65th percentile) and Low tier homes (valued within the 5th and 35th percentile) have a slightly higher correlation than those in the top tier.
 
 ![image](Resources/FVaca_4_National_correlation_plot.png)
 
+Single family homes have a higher correlation with the monetary supply than condos or coops. The effect of changes in monetary supply policy affect single home owners directly whereas this effect is more spread when dealing with condos and coops. 
+
 
 ## Monetary Supply and Housing Prices During Crisis
 
+### Financial Crisis from 2007-6-1 to 2009-12-31
+
+House prices decreased by an average of 14% during the financial crisis, whereas money supply grew by 16% over the same time period. As a result there was a strong negative correlation between the amount of money issued and the housing market.
+
+![image](Resources/FVaca_7_Fin_crisis_plot_z_score.png)
+
+
+
+![image](Resources/FVaca_18_rolling_z_scores_financial_crisis_plot.png)
+
+![image](Resources/FVaca_8_Fin_crisis_correlation_plot.png)
 
 
 
 
+### September 11, 2001 (9/11): Dates considered from 2001-1-1 to 2001-12-31
+
+
+
+![image](Resources/FVaca_10_911_plot_z_score.png)
+
+![image](Resources/FVaca_11_911_correlation_plot.png)
+
+
+
+### Global Pandemic: Dates considered from 2020-1-1 to 2021-5-1
+
+![image](Resources/FVaca_13_pandemic_plot_z_scores.png)
+
+![image](Resources/FVaca_14_pandemic_correlation_plot.png)
