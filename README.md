@@ -71,12 +71,12 @@ When comparing the money supply over the past 40 years to the major asset classe
 The economic indicators of GDP and Personal Income are very correlated over the last 40 years.  Even the new asset classes like crypto currences, like Bitcoin, seem to be extremely correlated.
 </p>
 <h2>40 year Z-Score: M2 Compared to Personal Income and GDP</h2>
-<img src="">
+<img src="Resources/el-40y_Z-Score_plot.png">
 <br>
 <h3>Correlation heatmap for 40 Year Z-Scores of M2, GDP, & Personal Income</h3>
 <img src="Resources/el-Correlation_of_M2_GDP_Income_40yr.png">
 
-<h2>40 year Z-Score: M2 Compared to Bitcoin</h2>
+<h2>Z-Score: M2 Compared to Bitcoin</h2>
 <img src="Resources/pd_z_score_m2sl_btc_plot.png">
 <br>
 <h3>Correlation heatmap for 40 Year Z-Scores of M2 compared to Bitcoin</h3>
